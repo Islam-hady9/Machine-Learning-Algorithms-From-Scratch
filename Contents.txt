@@ -1,3 +1,4 @@
 #1_Linear Regression with one variable      -----> C1_W1_Lab02_Model_Representation_Soln
 #2_Cost Function for linear regression      -----> C1_W1_Lab03_Cost_function_Soln
 #3_Gradient Descent for Linear Regression   -----> C1_W1_Lab04_Gradient_Descent_Soln
+#4_Sigmoid function and logistic regression -----> C1_W3_Lab02_Sigmoid_function_Soln
