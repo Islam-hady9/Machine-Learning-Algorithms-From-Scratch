@@ -3,3 +3,4 @@
 #3_Gradient Descent for Linear Regression   -----> C1_W1_Lab04_Gradient_Descent_Soln
 #4_Sigmoid function and logistic regression -----> C1_W3_Lab02_Sigmoid_function_Soln
 #5_Cost Function for Logistic Regression    -----> C1_W3_Lab05_Cost_Function_Soln
+#6_Gradient Descent for Logistic Regression -----> C1_W3_Lab06_Gradient_Descent_Soln
