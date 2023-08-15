@@ -4,3 +4,4 @@
 #4_Sigmoid function and logistic regression -----> C1_W3_Lab02_Sigmoid_function_Soln
 #5_Cost Function for Logistic Regression    -----> C1_W3_Lab05_Cost_Function_Soln
 #6_Gradient Descent for Logistic Regression -----> C1_W3_Lab06_Gradient_Descent_Soln
+#7_Simple Neural Network_Numpy              -----> C2_W1_Lab03_CoffeeRoasting_Numpy
